@@ -14,7 +14,7 @@
    </div>
    <div class="Home">
      <h1>Home</h1>
-     <p>Hi, my name is <strong>Ritho Mwangi</strong> a software developer student at <a href="https://moringaschool.com/"> Moringa school.This is a breif introduction to my portfolio. I hope you enjoy.</p>
+     <p>Hi, my name is <strong>Ritho Mwangi</strong> a software developer student at<a href="http://moringaschool.com/">Moringa School</a>. This is a breif introduction to my portfolio. I hope you enjoy.</p>
    </div>
    <div class="About">
      <h2>About Me</h2>
@@ -28,7 +28,7 @@
    </div>
    <div class="Github Links">
     <h3>Github</h3>
-    <p>Here is a link to my Github pages<a href="https://github.com/Rema001/Student-Portfolio"
+    <p>Here is a link to my Github pages<a href=<a href="https://github.com/Rema001/Student-Portfolio/">Github</a>.
 
 </body>
  </html>
